@@ -1,6 +1,6 @@
-# 株式会社ZINE 社内規程
+# KeepWeird株式会社 社内規程
 
-こちらは、[株式会社ZINE](http://zineinc.co.jp)で定められている社内規程となります。<br>
+こちらは、[KeepWeird株式会社](http://keepweird.co)で定められている社内規程となります。<br>
 
 ## 社内規程の設計方針・考え方
 
@@ -32,9 +32,9 @@
 
 ## 謝辞
 
-こちらの社内規程は、[デンキヤギ株式会社様の就業規則](https://github.com/DenkiYagi/EmployeeHandbook)、[株式会社トランスリミット様の社内規程](https://github.com/Translimit/company-regulation)を参考にして制定させていただきました。社内規程を制定するにあたり、社会保険労務士の先生と相談の上で弊社に合う形に元の内容から改変をしております。
+こちらの社内規程は、[株式会社ZINE様の就業規則](https://github.com/zine-inc/company-regulation)を参考にして制定させていただきました。社内規程を制定するにあたり、社会保険労務士の先生と相談の上で弊社に合う形に元の内容から改変をしております。
 
-デンキヤギ株式会社様、株式会社トランスリミット様、就業規則をご提供いただき誠にありがとうございました。
+株式会社ZINE様、就業規則をご提供いただき誠にありがとうございました。
 
 ## ライセンスについて
 
@@ -47,11 +47,11 @@
   </a>
   <br />
   To the extent possible under law,
-  <a rel="dct:publisher" href="http://www.zineinc.co.jp/">
-    <span property="dct:title">株式会社ZINE</span>
+  <a rel="dct:publisher" href="http://keepweird.co">
+    <span property="dct:title">KeepWeird株式会社</span>
   </a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">株式会社ZINE 社内規程</span>.
+  <span property="dct:title">KeepWeird株式会社 社内規程</span>.
   This work is published from:
-  <span property="vcard:Country" datatype="dct:ISO3166" content="JP" about="http://www.zineinc.co.jp/">日本</span>.
+  <span property="vcard:Country" datatype="dct:ISO3166" content="JP" about="http://keepweird.co">日本</span>.
 </p>
